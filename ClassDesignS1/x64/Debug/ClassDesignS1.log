@@ -1,0 +1,4 @@
+﻿  ClassDesignS1.cpp
+C:\Users\tnngu\Desktop\Workspace\Assignment_Dec17\ClassDesignS1\ClassDesignS1\ClassDesignS1.cpp(14,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tnngu\Desktop\Workspace\Assignment_Dec17\ClassDesignS1\ClassDesignS1\ClassDesignS1.cpp(29,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ClassDesignS1.vcxproj -> C:\Users\tnngu\Desktop\Workspace\Assignment_Dec17\ClassDesignS1\x64\Debug\ClassDesignS1.exe
